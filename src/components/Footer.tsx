@@ -59,7 +59,7 @@ const Footer = () => {
             <h4 className="text-white font-semibold mb-4">Connect With Me</h4>
             <div className="flex gap-3">
               <motion.a
-                href="https://github.com"
+                href="https://github.com/Shaikbaba1112"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.2, rotate: 5 }}
@@ -68,7 +68,7 @@ const Footer = () => {
                 <Code2 size={20} />
               </motion.a>
               <motion.a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/shaik-baba-s1112/"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.2, rotate: 5 }}
@@ -77,7 +77,7 @@ const Footer = () => {
                 <User size={20} />
               </motion.a>
               <motion.a
-                href="mailto:your@email.com"
+                href="mailto:shaikhbaba9539@email.com"
                 whileHover={{ scale: 1.2, rotate: 5 }}
                 className="w-10 h-10 bg-slate-800 hover:bg-blue-600 rounded-lg flex items-center justify-center text-gray-300 hover:text-white transition-colors"
               >

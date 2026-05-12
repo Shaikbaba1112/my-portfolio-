@@ -41,7 +41,7 @@ const Contact = () => {
     {
       icon: User,
       label: 'LinkedIn',
-      value: 'linkedin.com/in/username',
+    //   value: 'linkedin.com/in/username',
       href: 'https://linkedin.com',
     },
     {

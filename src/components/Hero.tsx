@@ -38,7 +38,7 @@ const Hero = () => {
               View Projects <ArrowRight size={20} />
             </motion.a>
             <motion.a
-              href="mailto:your@email.com"
+              href="mailto:shaikhbaba9539@email.com"
               whileHover={{ scale: 1.05 }}
               className="flex items-center gap-2 border border-blue-400 text-blue-400 hover:bg-blue-400/10 px-6 py-3 rounded-lg"
             >
@@ -48,7 +48,7 @@ const Hero = () => {
 
           <div className="flex gap-4">
             <motion.a
-              href="https://github.com"
+              href="https://github.com/Shaikbaba1112"
               target="_blank"
               whileHover={{ y: -5 }}
               className="p-3 bg-slate-800 rounded-lg text-gray-300 hover:text-blue-400"
@@ -56,7 +56,7 @@ const Hero = () => {
               <Code2 size={24} />
             </motion.a>
             <motion.a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/shaik-baba-s1112/"
               target="_blank"
               whileHover={{ y: -5 }}
               className="p-3 bg-slate-800 rounded-lg text-gray-300 hover:text-blue-400"
@@ -64,7 +64,7 @@ const Hero = () => {
               <User size={24} />
             </motion.a>
             <motion.a
-              href="mailto:your@email.com"
+              href="mailto:shaikhbaba9539@email.com"
               whileHover={{ y: -5 }}
               className="p-3 bg-slate-800 rounded-lg text-gray-300 hover:text-blue-400"
             >

@@ -67,7 +67,7 @@ const Projects = () => {
                 className="bg-gradient-to-br from-blue-500/20 to-cyan-500/20 border border-slate-700 rounded-lg h-80 flex items-center justify-center"
               >
                 <div className="text-center text-gray-400">
-                  <div className="text-6xl mb-2">📸</div>
+                  <div className="text-6xl mb-2">https://imgs.search.brave.com/EeTlFQQfNdlOvag3Xnvhj3m7wgyRX5h6dcChOFS8v4E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9lbmVy/Z3kuZnVsdXNuZXNp/YS5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjUvMTEvMTcw/OTIxMzIwNzIzMC03/OTZ4NDQ1LmpwZWc</div>
                   <p>Project Screenshot</p>
                 </div>
               </motion.div>
