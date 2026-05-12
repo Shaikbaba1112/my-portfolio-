@@ -29,13 +29,13 @@ const Contact = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'your@email.com',
+    //   value: 'your@email.com',
       href: 'mailto:your@email.com',
     },
     {
       icon: Code2,
       label: 'GitHub',
-      value: 'github.com/username',
+    //   value: 'github.com/username',
       href: 'https://github.com',
     },
     {
